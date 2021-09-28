@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Visahl Singh.
-- 👀 I’m interested in ...Coding, Reading and Travelling.
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Coding, Reading and Travelling.
+- 🌱 I’m currently learning Python, Machine Learning and Deep Learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...vishalsingh4897@gmail.com
 
