@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Visahl Singh.
-- 👀 I’m interested in Coding, Reading and Travelling.
 - 🌱 I’m currently working as Software Developer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...vishalsingh4897@gmail.com
